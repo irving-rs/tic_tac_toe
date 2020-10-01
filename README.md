@@ -2,6 +2,8 @@
 Tic-tac-toe: The classical game played on a 3x3 grid.
 
 Programmed in Python 3.8.5, uses CLI. 
+This is a very fun game that you can enjoy whenever you are
+Free and wanna have a game. XD
 
 ## Basics:
 - The player always starts the game doing the first move.
